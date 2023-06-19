@@ -2,7 +2,7 @@
 // 645 -> 5
 // 78 -> третьей цифры нет
 // 32679 -> 6
-
+//pupupupupu
 
 Console.Write("Введи число: ");
 int anyNumber = Convert.ToInt32(Console.ReadLine());

@@ -1,0 +1,15 @@
+C:\Users\aj48\Desktop\VSCOD\C#\Homework2C#\Zadacha10\bin\Debug\net7.0\Zadacha10.exe
+C:\Users\aj48\Desktop\VSCOD\C#\Homework2C#\Zadacha10\bin\Debug\net7.0\Zadacha10.deps.json
+C:\Users\aj48\Desktop\VSCOD\C#\Homework2C#\Zadacha10\bin\Debug\net7.0\Zadacha10.runtimeconfig.json
+C:\Users\aj48\Desktop\VSCOD\C#\Homework2C#\Zadacha10\bin\Debug\net7.0\Zadacha10.dll
+C:\Users\aj48\Desktop\VSCOD\C#\Homework2C#\Zadacha10\bin\Debug\net7.0\Zadacha10.pdb
+C:\Users\aj48\Desktop\VSCOD\C#\Homework2C#\Zadacha10\obj\Debug\net7.0\Zadacha10.csproj.AssemblyReference.cache
+C:\Users\aj48\Desktop\VSCOD\C#\Homework2C#\Zadacha10\obj\Debug\net7.0\Zadacha10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj48\Desktop\VSCOD\C#\Homework2C#\Zadacha10\obj\Debug\net7.0\Zadacha10.AssemblyInfoInputs.cache
+C:\Users\aj48\Desktop\VSCOD\C#\Homework2C#\Zadacha10\obj\Debug\net7.0\Zadacha10.AssemblyInfo.cs
+C:\Users\aj48\Desktop\VSCOD\C#\Homework2C#\Zadacha10\obj\Debug\net7.0\Zadacha10.csproj.CoreCompileInputs.cache
+C:\Users\aj48\Desktop\VSCOD\C#\Homework2C#\Zadacha10\obj\Debug\net7.0\Zadacha10.dll
+C:\Users\aj48\Desktop\VSCOD\C#\Homework2C#\Zadacha10\obj\Debug\net7.0\refint\Zadacha10.dll
+C:\Users\aj48\Desktop\VSCOD\C#\Homework2C#\Zadacha10\obj\Debug\net7.0\Zadacha10.pdb
+C:\Users\aj48\Desktop\VSCOD\C#\Homework2C#\Zadacha10\obj\Debug\net7.0\Zadacha10.genruntimeconfig.cache
+C:\Users\aj48\Desktop\VSCOD\C#\Homework2C#\Zadacha10\obj\Debug\net7.0\ref\Zadacha10.dll

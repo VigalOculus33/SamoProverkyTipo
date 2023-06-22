@@ -2,7 +2,7 @@
 //Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
 
 Console.WriteLine("Введите число");
-String number = Console.ReadLine();
+String? number = Console.ReadLine();
 
 void CheckNumber(String Cumming){
     if(number[0] == number[4] && number[1] == number[3]){

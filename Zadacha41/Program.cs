@@ -6,8 +6,7 @@ Console.WriteLine("Введите произвольное количество 
 int[] Myarray = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
 int count = 0;
 
-for (int i = 0; i < Myarray.Length; i++)
-{
+for (int i = 0; i < Myarray.Length; i++){
   if (Myarray[i] > 0)
   {
     count++;

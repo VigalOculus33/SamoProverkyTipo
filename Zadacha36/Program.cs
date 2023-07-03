@@ -16,21 +16,5 @@ for (int i = 0; i < ourNumb.Length; i += 2)
 
 Console.WriteLine($"Cумма элементов на нечётных позициях = {sumOfNumbers}");
 
-void FillArrayRandomNumbers(int[] ourNumb)
-{
-  for (int j = 0; j < ourNumb.Length; j++)
-  {
-    ourNumb[j] = new Random().Next(1, 20);
-  }
-}
-
-void PrintArray(int[] ourNumb)
-{
-  Console.Write("]");
-  for (int j = 0; j < ourNumb.Length; j++)
-  {
-    Console.Write(ourNumb[j] + " ");
-  }
-  Console.Write("[");
-  Console.WriteLine();
+void FillArrayRandomNumbers(int[] ourNum
 }

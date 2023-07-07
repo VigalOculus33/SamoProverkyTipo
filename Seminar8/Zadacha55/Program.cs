@@ -16,4 +16,3 @@ int[,] GetRandomMatryx(int rows,int columns)
 }
 
 int[,] myMatrix = GetRandomMatryx(ROWS, COLUMNS);
-Console.W

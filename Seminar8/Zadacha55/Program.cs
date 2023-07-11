@@ -1,18 +1,30 @@
 ﻿
-const int ROWS = 3;
-const int COLUMNS = 4;
 
-int[,] GetRandomMatryx(int rows,int columns)
+const int Rows = 3;
+const int Columns = 5;
+double[,] GetRandomMatrix(int row, int columns)
 {
-    int[,] matrix = new int[rows, columns];
-    for(int i = 0;i < matrix.GetLength(0);i++)
+double[,] matrix = new double[row, columns];   //выделение памяти
+for(int i = 0; i < matrix.GetLength(0); i++)
+{
+    for(int j = 0; j < matrix.GetLength(1); j++)
     {
-        for(int j = 0; j < matrix.GetLength(1); j++)
-        {
-            matrix[i,j] = Random.Shared.Next(1,10);
-        }
+        matrix[i, j] = Random.Shared.Next(1, 10);
     }
-    return matrix;
+}
+return matrix;
+}
+void PrintMatrix(double[,] matrix)
+{
+for(int i = 0; i < matrix.GetLength(0); i++)
+{
+    for(int j = 0; j < matrix.GetLength(1); j++)
+    {
+        Console.Write($"{matrix[i, j]} ");
+    }
+    Console.WriteLine();
+}
 }
 
-int[,] myMatrix = GetRandomMatryx(ROWS, COLUMNS);
+double[,] myMatrix = GetRandomMatrix(Rows, Columns);
+PrintMatrix(myMatrix);

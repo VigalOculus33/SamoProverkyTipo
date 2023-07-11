@@ -14,7 +14,7 @@ int[,] TakeRandomMatrix(int ranks, int posts){
     {
         for(int j = 0; j < matrix.GetLength(1); j++)
         {
-            matrix[i, j] = Random.Shared.Next(1, 10);
+                matrix[i, j] = Math.Round((new Random().NextDouble()) * 5, 1);
         }
     }
     return matrix;
@@ -40,5 +40,5 @@ for(int j =0; j < Posts; j++){
     }
     average[j] = (double) sum / Ranks;
 }
-Console.WriteLine("Среднее арифметическое :");
+double[,] matrix = new double[3, 4];;
 Console.WriteLine(string.Join(",", average));
